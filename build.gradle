@@ -51,7 +51,7 @@ jib {
 		}
 	}
 	to {
-		image = 'binjumeoniz/binjumeoniz:latest'
+		image = 'binjumeoniz1/binjumeoniz:latest'
 	}
 	container {
 		jvmFlags = ['-Dspring.profiles.active=dev']
